@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+// ai-dev rules engine. On the Bash PATH while the ai-dev plugin is enabled,
+// so the coordinator runs `ai-dev-orch next`, `ai-dev-orch run next <run>`, and so on.
+import(new URL("../orchestrator/orch.mjs", import.meta.url).href);

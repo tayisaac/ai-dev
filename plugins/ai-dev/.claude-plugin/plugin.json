@@ -1,0 +1,19 @@
+{
+  "name": "ai-dev",
+  "displayName": "ai-dev",
+  "version": "1.0.0",
+  "description": "An AI dev team on AI Blueprint: one-time repo setup, requirement refinement, parallel feature builds in git worktrees, and multi-lens code review. Subagents do the work, a rules engine and hooks enforce the order, and you approve every step that matters.",
+  "author": {
+    "name": "Isaac Tay"
+  },
+  "keywords": [
+    "ai-blueprint",
+    "orchestration",
+    "subagents",
+    "code-review",
+    "worktrees",
+    "requirements"
+  ],
+  "homepage": "https://github.com/tayisaac/ai-dev",
+  "repository": "https://github.com/tayisaac/ai-dev"
+}

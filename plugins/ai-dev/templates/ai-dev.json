@@ -1,0 +1,7 @@
+{
+  "concurrency": 2,
+  "maxRepairAttempts": 2,
+  "verify": null,
+  "worktreeSetup": "auto",
+  "copyFiles": [".env", ".env.local"]
+}
